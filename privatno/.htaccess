@@ -1,0 +1,5 @@
+
+  AuthName "Korisnici"
+  AuthType Basic
+  AuthUserFile /var/www/webdip.barka.foi.hr/2019_projekti/WebDiP2019x067/privatno/.htpasswd
+  require valid-user
